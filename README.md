@@ -51,8 +51,6 @@ Train:
 
 ```bash
 ./train.py
-111
-222
 ```
 
 ## Evaluating
